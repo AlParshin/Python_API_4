@@ -1,0 +1,8 @@
+user: "CatKate11111"
+password: "cdeca16eb7"
+address: "https://test-stand.gb.ru/login"
+driver_path: "geckodriver.exe"
+username_api: "KatrinzZZ"
+password_api: "284ac1db73"
+url: "https://test-stand.gb.ru/gateway/login"
+url_post: "https://test-stand.gb.ru/api/posts"
